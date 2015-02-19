@@ -1,0 +1,26 @@
+"*":
+  editor:
+    fontSize: 13
+    invisibles: {}
+    fontFamily: "consolas"
+  core:
+    themes: [
+      "one-light-ui"
+      "VisualStudio"
+    ]
+    disabledPackages: [
+      "linter-tslint"
+      "typescript-atomizer"
+      "background-tips"
+      "deprecation-cop"
+      "exception-reporting"
+      "language-clojure"
+      "language-coffee-script"
+      "language-mustache"
+      "welcome"
+    ]
+  "exception-reporting":
+    userId: "4b3c6891-eaeb-4d32-5f72-ddb82554aea6"
+  welcome:
+    showOnStartup: false
+  linter: {}
